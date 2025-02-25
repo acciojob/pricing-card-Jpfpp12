@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+
+h1{
+	font-family:"Arial";"sans-serif"
+}
+.container{
+	margin: 30px;
+	border-block:10px;
+	box-shadow:1
+	height: 100px;
+    width: 150px;
+    background-color: #FF6666;
+    overflow-wrap: break-word;
+}
+.submit{
+	background:pink;
+	
+}
